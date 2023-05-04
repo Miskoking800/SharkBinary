@@ -35,9 +35,7 @@ loaded_data = sharkbinary.load_data('data.bin')
 # Print the loaded data
 print(loaded_data)
 
-
-
-    This will output:
+This will output:
 
 [1, 2, 3, 4, 5]
 
