@@ -6,7 +6,7 @@ setup(
     author='SharkStudios',
     author_email='margetin.michal123@gmail.com',
     description='A short description of your package',
-    py_modules=['test.py'],
+    py_modules=['data_io.py'],
     
     classifiers=[
         'Programming Language :: Python :: 3',
