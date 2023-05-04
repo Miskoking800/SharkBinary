@@ -7,9 +7,7 @@ setup(
     author_email='margetin.michal123@gmail.com',
     description='A short description of your package',
     py_modules=['test'],
-    install_requires=[
-        'struct'
-    ],
+    
     classifiers=[
         'Programming Language :: Python :: 3',
         'License :: OSI Approved :: MIT License',
