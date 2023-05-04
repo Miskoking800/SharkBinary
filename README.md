@@ -10,9 +10,9 @@ You can install SharkBinary using pip:
     
 Or alternativly:
   
-   git clone https://github.com/Miskoking800/SharkBinary.git
-   cd SharkBinary
-   pip install .
+    git clone https://github.com/Miskoking800/SharkBinary.git
+    cd SharkBinary
+    pip install .
    
  
 
