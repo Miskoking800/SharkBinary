@@ -13,6 +13,8 @@ Or alternativly:
    git clone https://github.com/Miskoking800/SharkBinary.git
    cd SharkBinary
    pip install .
+   
+ 
 
 ## Usage
 
