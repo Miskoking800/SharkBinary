@@ -35,7 +35,7 @@ loaded_data = sharkbinary.load_data('data.bin')
 # Print the loaded data
 print(loaded_data)
 
-```python
+```
 
 This will output:
 
