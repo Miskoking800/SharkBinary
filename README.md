@@ -6,6 +6,7 @@ SharkBinary is a Python package that provides a simple interface for saving and 
 
 You can install SharkBinary using pip:
 
+```pip
 pip install SharkBinary
 
 
